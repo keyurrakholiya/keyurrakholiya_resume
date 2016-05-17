@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.16)  18 MAY 2016 00:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.16)  18 MAY 2016 00:55
 entering extended mode
 **./resumeupload.tex
 (resumeupload.tex
@@ -98,28 +98,28 @@ pp-pdf.mkii"
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.20   \hline
-             
+l.19  \end{center}  \hline
+                          
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 <keyur.jpg, id=1, 291.0875pt x 373.395pt>
 File: keyur.jpg Graphic file (type jpg)
  <use keyur.jpg>
-Package pdftex.def Info: keyur.jpg used on input line 32.
+Package pdftex.def Info: keyur.jpg used on input line 31.
 (pdftex.def)             Requested size: 90.33783pt x 115.87659pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 80.
+(Font)              <5> on input line 47.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
 
 ("C:\Users\keyurRakholiya\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsc
 mr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
  [1
 
 {C:/Users/keyurRakholiya/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./
@@ -127,7 +127,7 @@ keyur.jpg>] (resumeupload.aux) )
 Here is how much of TeX's memory you used:
  1128 strings out of 493634
  15521 string characters out of 3131567
- 71407 words of memory out of 3000000
+ 73407 words of memory out of 3000000
  4559 multiletter control sequences out of 15000+200000
  4246 words of font info for 16 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -138,7 +138,7 @@ AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
 Users/keyurRakholiya/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmr12.pfb><C:/Users/keyurRakholiya/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resumeupload.pdf (1 page, 100179 bytes).
+Output written on resumeupload.pdf (1 page, 101147 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
